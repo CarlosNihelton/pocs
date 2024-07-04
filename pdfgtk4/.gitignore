@@ -1,6 +1,0 @@
-.cache/
-.vscode/
-.nvim/
-*.o
-*:Zone.Identifier
-pdfgtk4

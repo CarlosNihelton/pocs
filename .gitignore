@@ -1,0 +1,13 @@
+_build/
+build/
+.cache/
+.vs/
+.vscode/
+x64/
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.vcxproj.*
+*:Zone.Identifier

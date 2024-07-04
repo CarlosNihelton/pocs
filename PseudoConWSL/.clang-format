@@ -1,0 +1,26 @@
+BasedOnStyle: LLVM
+AlignArrayOfStructures: Right
+AlignConsecutiveAssignments:
+  Enabled: true
+  AcrossComments: true
+  AlignCompound: true
+AlignConsecutiveDeclarations:
+  Enabled: true
+  AcrossComments: true
+  AlignCompound: true
+  PadOperators: true
+AlignConsecutiveMacros:
+  Enabled: true
+AllowShortBlocksOnASingleLine: Always
+AllowShortFunctionsOnASingleLine: All
+AlwaysBreakTemplateDeclarations: Yes
+BreakAfterAttributes: Always
+BreakBeforeTernaryOperators : false
+BreakConstructorInitializers: AfterColon
+BreakInheritanceList: AfterColon
+ColumnLimit: 119
+InsertNewlineAtEOF: true
+NamespaceIndentation: All
+PointerAlignment: Left
+QualifierAlignment: Custom
+QualifierOrder: ['friend', 'static', 'constexpr', 'inline', 'type', 'const', 'volatile', 'restrict']

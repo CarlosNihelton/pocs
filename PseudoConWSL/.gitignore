@@ -1,0 +1,6 @@
+build/
+*.exe
+.vs/
+x64/
+packages/
+*.user
